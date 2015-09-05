@@ -5,7 +5,7 @@
 #define NCHARS 256
 
 #ifndef BUFSIZE
-#define BUFSIZE 1024
+#define BUFSIZE (1024*1024)
 #endif
 
 char translate[NCHARS];
