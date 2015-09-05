@@ -23,7 +23,7 @@ ea285587e049d4d9db1f04137334ce3084149572  output-short-nonsame.txt
 ea285587e049d4d9db1f04137334ce3084149572  output-short-same.txt
 ```
 
-Запуски с выходным файлом:
+Launch with an output file:
 ```
 dna-complement-char-same.exe
     real    0m4.941s
@@ -56,7 +56,7 @@ dna-complement-int-nonsame.exe
     sys     0m8.285s
 ```
 
-Запуски без выходного файла:
+Launch without an output file:
 ```
 dna-complement-char-same.exe
     real    0m3.545s
